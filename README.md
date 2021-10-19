@@ -1,3 +1,5 @@
+![screencapture-netflixclone-ae06b-web-app-2021-10-18-22_18_54](https://user-images.githubusercontent.com/66178248/137848743-b8c720c3-73bb-400d-bd82-99e5f47b2a56.png)![oooooo](https://user-images.githubusercontent.com/66178248/137848782-cc4f05b8-1760-48ee-9eec-a555e1d1b3e0.PNG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
